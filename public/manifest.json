@@ -1,0 +1,42 @@
+{
+  "theme_color" : "#bd10e0",
+  "background_color" : "#000000",
+  "display" : "standalone",
+  "scope" : "/",
+  "start_url" : "/ColPro",
+  "name" : "Col Pro",
+  "short_name" : "Col Pro",
+  "description" : "Col Pro",
+  "icons": [
+  {
+    "src":"maskable.png",
+    "size":" 192 X 192",
+    "type":"image/png",
+    "purpose":"any maskable"
+  },
+  {
+    "src":"logo192.png",
+    "size":" 192 X 192",
+    "type":"image/png",
+    "purpose":"any maskable"
+  },
+  {
+    "src":"logo384.png",
+    "size":" 384 X 384",
+    "type":"image/png",
+    "purpose":"any maskable"
+  },
+  {
+    "src":"logo256.png",
+    "size":" 256 X 256",
+    "type":"image/png",
+    "purpose":"any maskable"
+  },
+  {
+    "src":"logo512.png",
+    "size":" 512 X 512",
+    "type":"image/png",
+    "purpose":"any maskable"
+  }
+]
+}
