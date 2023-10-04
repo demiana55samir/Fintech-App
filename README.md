@@ -68,30 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-# Fintech App Using React JS 
-  Fraud detection using federated learning bank application
-# Home Page
-![Capture](https://github.com/demiana55samir/Fintech-App/assets/65955978/b42cbe25-ec0d-4869-bad4-43d67b0594e1)
-# Jion Us Page
-![WhatsApp Image 2023-10-04 at 4 26 59 PM](https://github.com/demiana55samir/Fintech-App/assets/65955978/fee12b41-f766-4ea0-8e40-ade3a59b02f3)
-# Sign Up "Registration"
-  It is a multistep Registration
-![WhatsApp Image 2023-10-04 at 4 27 00 PM](https://github.com/demiana55samir/Fintech-App/assets/65955978/168e28f3-b90e-4c7c-9b26-f08726cdc5b4)
-![WhatsApp Image 2023-10-04 at 4 27 01 PM (4)](https://github.com/demiana55samir/Fintech-App/assets/65955978/d081d74a-e7f5-41e1-a3fd-53397bea2595)
-![WhatsApp Image 2023-10-04 at 4 27 01 PM (3)](https://github.com/demiana55samir/Fintech-App/assets/65955978/00df259d-d2cd-4dca-bcab-26012f83823d)
-# Login 
-![WhatsApp Image 2023-10-04 at 4 27 01 PM (2)](https://github.com/demiana55samir/Fintech-App/assets/65955978/5c175b4a-4cfc-4f40-9257-b459f7dd4273)
-# User Profile 
-![WhatsApp Image 2023-10-04 at 4 27 01 PM (1)](https://github.com/demiana55samir/Fintech-App/assets/65955978/67d3954c-21cf-49c6-8aad-3699958755d9)
-![WhatsApp Image 2023-10-04 at 4 27 02 PM](https://github.com/demiana55samir/Fintech-App/assets/65955978/e94d275d-cb09-40e4-9314-13cd8a9f29d1)
-# User Location
-![WhatsApp Image 2023-10-04 at 4 27 03 PM](https://github.com/demiana55samir/Fintech-App/assets/65955978/7f42a9bd-7cd0-49d9-8ac8-c69223f18709)
-# Transaction
-![WhatsApp Image 2023-10-04 at 4 27 01 PM](https://github.com/demiana55samir/Fintech-App/assets/65955978/1e4d8f93-4f6d-4c3e-9eb9-41c040cd0215)
-# Freezing Card "Stop Card"
-![WhatsApp Image 2023-10-04 at 4 27 02 PM (3)](https://github.com/demiana55samir/Fintech-App/assets/65955978/8c663fcb-d68a-4772-8e36-eff31652c024)
-# Transactions History
-![WhatsApp Image 2023-10-04 at 4 27 02 PM (2)](https://github.com/demiana55samir/Fintech-App/assets/65955978/0218d200-edf2-4dda-9325-529d1ff89bd1)
-# Request New Visa
-![WhatsApp Image 2023-10-04 at 4 27 02 PM (1)](https://github.com/demiana55samir/Fintech-App/assets/65955978/2197fcb1-8dc6-4892-8279-aede77edeb7a)
