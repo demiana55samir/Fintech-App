@@ -1,0 +1,88 @@
+
+
+
+@media only screen and (max-width: 970px) {
+    .button0{
+top: 80% !important;
+    }
+}
+
+
+.headerOut{
+    background-image: url(./otp.png);
+    opacity:.9;
+    width: 110%;
+    height: 100%;
+    background-size: cover;
+    position: absolute;
+}
+.button0 {
+    position: absolute;
+    top: 480px;
+    left: 120px;
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: whitesmoke;
+    color: #041fa4;
+    border-radius: 25px !important;
+    transition-duration: 0.4s;
+
+}
+
+button:hover {
+    background-color: #0021c8;
+    color: whitesmoke;
+}
+
+.content {
+    display: inline-block;
+    padding: 25px;
+    margin-top: 120px;
+}
+
+.headerH1 {
+    position: absolute;
+    text-align: left;
+    font-size: 4em !important;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    line-height: 1.5 !important;
+    padding: 100px;
+    top: 80px;
+    color: whitesmoke;
+    white-space: nowrap;
+    background-color: transparent;
+    text-overflow: clip;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-family: Impact,  'Arial Narrow Bold', sans-serif;
+}
+
+#nextheader {
+    padding: 180px 100px;
+
+}
+
+.home {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+.para {
+    position: absolute;
+    padding: 200px 120px;
+    font-size: 1.5em;
+    letter-spacing: 3px;
+    word-spacing: 2px;
+    text-align: left;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: normal;
+    color: whitesmoke;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    font-family: Impact,  'Arial Narrow Bold', sans-serif;
+}

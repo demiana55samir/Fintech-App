@@ -1,0 +1,45 @@
+
+@media only screen and (max-width: 1170px) {
+
+    .main-footer00{
+        top: 2750px !important;
+    }
+    .headerH1{
+        left: -8%;
+    }
+    .para{
+        left: -10%;
+
+    }
+} 
+
+
+
+
+
+
+
+.main-footer00 {
+    
+    height: 45%;
+    color: whitesmoke;
+    background-color: rgb(3, 20, 199);
+    position: absolute;
+    justify-content: center;
+    top: 2000px;
+    width: 110% !important;
+    margin-top:50px;
+}
+
+.list-unstyled0 {
+    font-size: larger !important;
+    top: 155px;
+    justify-content: center;
+}
+
+.col0 {
+    font-size: larger !important;
+    top: 155px;
+    left: 255px;
+    justify-content: center;
+}

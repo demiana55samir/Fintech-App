@@ -1,0 +1,9 @@
+.otpframe{
+    left: 450px;
+    top: 110px;
+    position: absolute;
+  padding: 120px 80px;
+    width: 420px;
+    height: 450px;
+    background-color: rgb(236, 84, 84);
+}

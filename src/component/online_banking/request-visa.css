@@ -1,0 +1,151 @@
+@media only screen and (max-width: 1160px) {
+    .forms300{
+        position: absolute;
+        left: -7% ;
+        width: 450px !important;
+        height: 70% !important;
+        top: 19%;
+    }
+    #h52{
+        position: absolute;
+        top: 45% !important;
+    }
+    #h53{
+        position: absolute;
+        top: 57% !important;
+    }
+    .loTrans{
+    
+        height: 160% !important;
+    }
+    #ip51{
+        top: 70% !important;
+        left: -10%;
+        
+    }
+    #ip52{
+        width: 80% !important;
+        top: 58% !important;
+        left: -10%;
+
+        
+    }
+    #h511{
+        position: relative !important;
+        left: -5% !important;
+    }
+    #dropdown43{
+        transform: translate(-280px,50px) !important; 
+    }
+    #submit300{
+        position: absolute;
+        top: 70% !important;
+        left: 25% !important;
+    }
+    .submit300{
+        position: absolute;
+        top: 80% !important;
+        left: 25% !important
+    }
+}
+
+
+.loTrans{
+    width: 100%;
+    height: 120%;
+}
+
+.forms300{
+    box-shadow: -1px 1px 60px 10px black;
+    background: rgba(0, 0, 0, 0.5);
+    width: 40%;
+    margin-left: 11.5%;
+    margin-top: 8%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+#err{
+    color: red
+}
+.title300{
+    top: 15px;
+    color:  #f5f2f5;
+    text-align: center;
+    font-weight: bold;
+    top: 0%;
+    position:top;
+    list-style-position: calc(0);
+    font-size:35px;
+  }
+#h511{
+    color: whitesmoke;
+    margin-top: 20%;
+    text-overflow: clip;
+    overflow:hidden;
+}
+#dropdown43{
+    position: relative;
+    margin-top: -14%;
+    margin-left: 73%;
+    background: linear-gradient(to right , #3e5bef ,#455afa) !important;
+}
+.checkbox1{
+    margin-top: 5%;
+    color: whitesmoke;
+}
+#h52{
+    color: whitesmoke;
+    font-weight: bold;
+    margin-top: 7%;
+}
+#ip51{
+    width: 20% !important;
+    
+    background: linear-gradient(to right , #3e5bef ,#455afa) !important;
+color: whitesmoke;
+margin-left: 15%;
+ position: absolute;
+ margin-top: -2.5%;
+}
+
+#h53{
+    color: whitesmoke;
+    font-weight: bold;
+    margin-top: 9%;
+
+}
+#ip52{
+width: 20% !important;
+background: linear-gradient(to right , #3e5bef ,#455afa) !important;
+color: whitesmoke;
+ margin-left: 15%;
+ position: absolute;
+ margin-top:-2.3%;
+ margin-bottom: 20px;
+}
+.submit300{
+    margin-top: 15%;
+    margin-bottom: 30px;
+    margin-left: 12%;
+    padding: 2%;
+    width: 28%;
+    background: linear-gradient(to right , #3e5bef ,#455afa) !important;
+    border-radius: 15px;
+    color: whitesmoke;
+}
+#btn52{
+    margin-top: 15%;
+    margin-left: 20%;
+    padding: 2%;
+    width: 28%;
+    background: linear-gradient(to right , #3e5bef ,#455afa) !important;
+    color: whitesmoke;
+}
+.swal2-title{
+    position: absolute !important;
+    padding: 13% !important;
+height: 35% !important;
+}
+.swal2-container.swal2-center>.swal2-popup{
+    align-self:auto !important;
+}

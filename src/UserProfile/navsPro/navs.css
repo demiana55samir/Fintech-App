@@ -1,0 +1,32 @@
+nav{
+    background-color: rgb(245, 245, 245);
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 0px;
+}
+nav a {
+font-weight:bold;
+color: #000e7b !important;
+font-size: larger !important;
+text-transform:capitalize;
+font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+#brand{
+    font-size:xx-large !important;
+    color: #453255;
+    text-shadow: 1px 1px 1px  rgb(213, 20, 220);
+    margin: 2px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#logo{
+    width: 55px;
+    height: 55px;
+    background-color: transparent;
+}
+
+.down{
+    background-color: rgba(67, 151, 203);
+}

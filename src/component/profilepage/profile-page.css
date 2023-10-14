@@ -1,0 +1,97 @@
+@media only screen and (max-width: 950px) {
+    .divcontaioner{
+        position: absolute;
+        width: 85% !important;
+        height: 75% !important;
+        left: -10% !important;
+    }
+    .div11{
+        height: 140% !important;
+    }
+}
+
+
+
+
+.div11{
+    background-image: url(../../Signup/otp.png);
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+
+    height: 100%;
+}
+.divcontaioner{
+    margin-top: 82px;
+    margin-left: 85px;
+    box-shadow: -1px 1px 60px 10px black;
+    background: rgba(0, 0, 0, 0.5);
+    width: 40%;
+    height: 84%;
+    border-style: inset;
+    /* background-color:transparent; */
+    border-radius: 30px;
+}
+.h51{
+    color: whitesmoke;
+    margin: 20px;
+    text-transform: capitalize;
+}
+ /* #hr25{
+    border: 2px solid rgb(16, 74, 233);
+  border-radius: 5px;
+}  */
+
+#dropdown-item-button{
+    margin-top: 25px;
+    width: 55%;
+    margin-left: 115px;
+    text-align: center;
+}
+.h52{
+    color: whitesmoke;
+   margin-top: 50px;
+   margin-left:  22px;
+    text-transform: capitalize;
+}
+.h53{
+    color: whitesmoke;
+    margin-top: 70px;
+    margin-left:  22px;
+    text-transform: capitalize;
+}
+.btn3{
+    background-color: rgb(16, 74, 233);
+    border-style: none;
+    margin-top: 105px;
+    color: white;
+    margin-left: -300px;
+    padding: 9px;
+    width: 22%;
+    border-radius: 10px;
+    position: absolute;
+}
+.btn3:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    padding:  12px;
+    color: white;
+    background-color: rgb(16, 74, 233);
+
+}
+.btn4{
+    background-color: rgb(16, 74, 233);
+    border-style: none;
+    margin-top: 55px;
+    color: white;
+    margin-left: 115px;
+    padding: 9px;
+    width: 55%;
+    border-radius: 10px;
+}
+.btn4:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+   
+    color: white;
+    background-color: rgb(16, 74, 233);
+
+}
